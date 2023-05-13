@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-DevOps Engineer with 5+ years of hands-on experience in cloud computing and automation. Certified in Kubernetes, Linux, and Azure with skills in designing, building and maintaining large scale systems and infrastructures. Skilled developer utilizing a variety of languages such as Python and C#.
+5+ years of hands-on experience in cloud computing and automation. Certified in Kubernetes, Linux, and Azure with skills in designing, building and maintaining large scale systems and infrastructures. Skilled developer utilizing a variety of languages such as Python and C#.
 
 * 🌍  I'm based in Turin (Italy)
 * ✉️  You can contact me at [fabri.deci@gmail.com](mailto:fabri.deci@gmail.com)
