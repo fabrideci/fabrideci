@@ -8,7 +8,7 @@ DevOps Engineer
 
 * 🌍  I'm based in Turin (Italy)
 * ✉️  You can contact me at [fabri.deci@gmail.com](mailto:fabri.deci@gmail.com)
-* 🧠  I'm learning whatever I feel I should know better!
+* 🧠  I'm learning whatever I feel I must know better!
 * 🤝  I'm open to collaborating on innovative projects and new ideas
 * ⚡  I'm a huge football (soccer) fan and proud Italian 🤌
 
