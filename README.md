@@ -4,7 +4,7 @@ Hi! My name is Fabrizio De Cicco
 DevOps Engineer
 ---------------
 
-5+ years of hands-on experience in cloud computing and automation. Certified in Kubernetes, Linux, and Azure with skills in designing, building and maintaining large scale systems and infrastructures. Skilled developer utilizing a variety of languages such as Python and C#.
+7+ years of hands-on experience in cloud computing and automation. Certified in Kubernetes, Linux, and Azure with skills in designing, building and maintaining large scale systems and infrastructures. Skilled developer utilizing a variety of languages such as JavaScript, Python and C#.
 
 * 🌍  I'm based in Turin (Italy)
 * ✉️  You can contact me at [fabri.deci@gmail.com](mailto:fabri.deci@gmail.com)
