@@ -1,10 +1,11 @@
 Hi! My name is Fabrizio De Cicco
 =========================================================================================================================================
 
-DevOps Engineer
+IoT Infrastructure Architect & Lead Engineer
 ---------------
 
-7+ years of hands-on experience in cloud computing and automation. Certified in Kubernetes, Linux, and Azure with skills in designing, building and maintaining large scale systems and infrastructures. Skilled developer utilizing a variety of languages such as JavaScript, Python and C#.
+Passionate about building scalable, reliable, and secure cloud foundations for connected products. I currently lead the IoT infrastructure domain, designing and evolving Culligan global IoT Platform’s cloud architecture, automation, and observability - empowering software and data teams to deliver faster with confidence.
+Experienced in Terraform, Azure DevOps, and cloud cost optimization, I focus on bridging development and operations to create systems that are efficient, maintainable, and resilient. I enjoy mentoring engineers, simplifying complexity, and driving collaboration across teams.
 
 * 🌍  I'm based in Turin (Italy)
 * ✉️  You can contact me at [fabri.deci@gmail.com](mailto:fabri.deci@gmail.com)
