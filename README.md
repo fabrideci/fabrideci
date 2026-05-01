@@ -1,7 +1,7 @@
 Hi! My name is Fabrizio De Cicco
 =========================================================================================================================================
 
-IoT Infrastructure Architect & Lead Engineer
+IoT Infrastructure Architect & Lead DevOps Engineer
 ---------------
 
 Passionate about building scalable, reliable, and secure cloud foundations for connected products. I currently lead the IoT infrastructure domain, designing and evolving Culligan global IoT Platform’s cloud architecture, automation, and observability - empowering software and data teams to deliver faster with confidence.
