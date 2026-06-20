@@ -11,6 +11,6 @@ helping software and data teams ship faster with confidence.
 ✉️ [fabri.deci@gmail.com](mailto:fabri.deci@gmail.com)
 
 - 🌍 Based in Turin, Italy
-- 🛠️ Terraform · Azure · Azure DevOps · Docker · Kubernetes · Python · C#
+- 🛠️ Terraform · Azure · Azure DevOps · Docker · Kubernetes · Python
 - 🤝 Open to collaborating on innovative infrastructure & IoT projects
 - ⚡ Huge football fan and proud Italian 🤌
